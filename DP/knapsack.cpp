@@ -12,7 +12,7 @@ int knapsack1(int w,int wt[],int val[],int n){
     if(n==0||w==0){
         return 0;
     }
-    /* if weight of n is > than W than it cannot be solution*/
+    
     if(wt[n-1]>w){
         return knapsack1(w,wt,val,n-1);
     }
