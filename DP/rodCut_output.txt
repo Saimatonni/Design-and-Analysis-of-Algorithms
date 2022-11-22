@@ -1,0 +1,6 @@
+Rod Cutting algorithom using Memoization
+
+3950
+
+
+Time taken by program is : 0.001000 sec 

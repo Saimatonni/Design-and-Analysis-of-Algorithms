@@ -1,0 +1,5 @@
+Subset Sum algorithom using Recusrion
+
+found a subset with given sum
+
+Time taken by program is : 0.000000 sec 

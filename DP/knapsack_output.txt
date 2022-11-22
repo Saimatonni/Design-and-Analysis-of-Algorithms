@@ -1,0 +1,6 @@
+knapsack algorithom using bottom-up
+
+1071
+
+
+Time taken by program is : 0.001000 sec 
